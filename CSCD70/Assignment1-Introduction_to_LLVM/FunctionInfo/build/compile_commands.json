@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/FunctionInfo/build/lib",
+  "command": "/usr/bin/c++ -DFunctionInfo_EXPORTS  -I/usr/lib/llvm-16/include -std=c++17   -fno-exceptions -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -isystem /usr/lib/llvm-16/include -Wall -Wextra -Werror -fPIC -o CMakeFiles/FunctionInfo.dir/FunctionInfo.cpp.o -c /mnt/FunctionInfo/lib/FunctionInfo.cpp",
+  "file": "/mnt/FunctionInfo/lib/FunctionInfo.cpp",
+  "output": "lib/CMakeFiles/FunctionInfo.dir/FunctionInfo.cpp.o"
+}
+]
